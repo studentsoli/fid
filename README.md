@@ -1,2 +1,2 @@
-# fid
-Fundamentals of Interactive Design
+# Fundamentals of Interactive Design
+This is my repository
