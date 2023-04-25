@@ -1,0 +1,38 @@
+@charset "UTF-8";
+body {  background-color: #858482;  margin: 0 10%;  font-family: sans-serif; text-align: center;}
+
+table, td, th {
+    text-align: center;
+    font-family: serif;
+    font-weight: normal;
+    text-transform: uppercase;
+    border: 111px;
+    width: 100;
+}
+
+h1 {
+    text-align: center;
+    font-family: serif;
+    font-weight: normal;
+    text-transform: uppercase;
+    margin-top: 15px;
+    margin-bottom: -55px;
+}
+
+h2 {  font-size: 1em;  text-transform: uppercase;  letter-spacing: .5em;  text-align: center;  font-family: serif;  color: #c60;  margin-top: 15px;  margin-bottom: -55px;}
+
+h3 {  font-size: 1em;  text-align: center;  font-family: serif;  margin-top: 5px;  margin-bottom: -55px;}
+
+h4 {  font-size: 1em;  text-transform: uppercase;  letter-spacing: .1em;  text-align: center;  font-family: serif;  list-style-type: none;  margin: 10;  padding: 10;  overflow: hidden;  background-color: brown;}
+
+h5 {  font-size: 1em;  text-align: center;  font-family:  Georgia, 'Times New Roman', Times, serif;  font-weight: bolder;  margin-top: 5px;  margin-bottom: -55px;}
+
+ol {  font-size: 1em;  text-transform: uppercase;  letter-spacing: .1em;  text-align: center;  font-family: serif;  list-style-type: none;  margin: 10;  padding: 10;  overflow: hidden;  background-color: brown;}
+
+li {  float: left;  border: right 5px;} li:last-child {  border-right: none;} li a {  display: flex;  color: white;  text-align: center;  padding: 11px 11px;  text-decoration: none;  float: left;}
+
+li a:hover:not(.active) {  background-color: #111;} .active {  background-color: #04AA6D;}
+
+#info p { font-style: italic;} p {  text-align: center;  font-family: serif;  margin-top: 60px;  margin-bottom: -10px;}
+
+q {  font-size: 1em;  text-transform: uppercase;  font-weight: bolder;} .price {  font-family: Georgia, serif;  font-style: italic;}
